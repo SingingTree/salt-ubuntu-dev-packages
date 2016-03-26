@@ -1,5 +1,5 @@
 # Setup packages for Ubuntu 12.04 (Precise Pangolin)
-linux_devbox_packages:
+ubuntu_precise_packages:
   pkg.installed:
     - names:
       - aptitude
