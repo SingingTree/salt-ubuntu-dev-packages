@@ -11,5 +11,6 @@ ubuntu_precise_packages:
       - git
       - libtool
       - mercurial
+      - python-pip
       - tmux
       - vim
